@@ -1,0 +1,404 @@
+{ 
+    "dataset": [
+        {
+            "type": "DIBUJALO",
+            "word": "TORRE EIFFEL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TORRE DE PIZZA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TAJ MAHAL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MURALLA CHINA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "EST. DE LA LIBERTAD"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PAPÁ NOEL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TOY STORY"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "REY LEÓN"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LAGO CALIMA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "REPRESA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CANCHA DE TEJO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LA CAUCANITA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "JEICOL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MONSALVE"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "VICTOR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GUSTAVO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ORINAR EN EL RIO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LINCOLN MEMORIAL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "NOTRE DAME"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "COLISEO DE ROMA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PIRAMIDES DE GIZA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GOLDEN GATE"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CRISTO REDENTOR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PLAZA ROJA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MACHU PICCHU"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CATARATAS NIAGARA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "DRAGON"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ISLA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PONY"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TRASTEO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "HOMBRE EN TACONES"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ZOOLOGICO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "NAVIDAD"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PROSTÍBULO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "EMPANANA CON AJÍ"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PARQUÉS DE MESA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CHUNCHULO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CHOLADO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LA ÚLTIMA CENA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MONA LISA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "EL GRITO DE MUNCH"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GOKU"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MATRIMONIO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GOL OLIMPICO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "HELLO KITTY"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PESTAÑINA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LABIAL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "RATA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ESPAGUETIS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MAZAMORRA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GUERRILLERO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "BAHÍA VEHICULAR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CUY"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TAMAL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LECHONA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "AGUJA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ARGOLLAS DE SAPO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TORTUGA NINJA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "VIAJE"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "JAPONÉS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "NAIPE DE POKER"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "DONALD TRUMP"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "SISTEMA SOLAR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "HOYO SOPLADOR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TAPARRABO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CIRCUNCISIÓN"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MAMUT"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "DINOSAURIO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MANGO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "YUCA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PEZ BARBUDO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ALA DE POLLO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TERMINATOR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "BUGGY"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ESPONJA DE BRILLO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "FOTOGRAFIA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PATADA VOLADORA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "COLMILLO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TOMATES"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "BANDEJA PAISA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "AREPA DE HUEVO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "LIMPIA VIDRIOS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "NILON"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "COMETA CORRONCHO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "ALZAR PESAS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "SPINNING"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "MONTGOMERY BURNS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CHEMTRAILS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PEPPA PIG"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "RAPUNZEL"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PIMENTÓN"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GUAYABA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "GUAYABA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CLÍTORIS"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "VIBRADOR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PANTERA"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "PIPI PARADO"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "CAÑA DE AZUCAR"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "HALLOWEEN"
+        },
+        {
+            "type": "DIBUJALO",
+            "word": "TRINCHERA"
+        }
+    ]
+}

@@ -1,0 +1,284 @@
+{ 
+    "dataset": [
+        {
+            "type": "DEPORTES",
+            "word": "ACROBACIA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "AERÓBICOS"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "AIKIDO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "AJEDREZ"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ALPINISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ARTES MARCIALES"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ATLETISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "AUTOMOVILISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "BALONCESTO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "BILLAR"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "BOXEO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "BÉISBOL"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "CAZA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "CICLISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "CRÍQUET"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "CUADRATLÓN"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "CURLING"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "DANZA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "DARDOS"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "FÚTBOL"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "FÚTBOL PLAYA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "FÚTBOL SALA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "FUTBOL AMERICANO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "GOLF"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "GIMNASIA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "GIMNASIA RÍTMICA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "HÓCKEY"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "JUDO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "KARATE"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "KENDO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "KICKBOXING"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "KUNG FU"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "LUCHA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "MOTOCICLISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "MOTONÁUTICA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "NATACIÓN"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PARACAIDISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PARAPENTE"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PARKOUR"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PATINAJE"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PAINTBALL"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PESCA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "PIRAGÜISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "POLO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "REMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "RUGBY"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TRAMPOLÍN"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SENDERISMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SOFTBOL"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SKATEBOARD"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SNOWBOARD"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SQUASH"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SUMO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "SURF"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TENIS"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TENIS DE MESA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TIRO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TIRO CON ARCO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TRIATLÓN"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "TAEKWONDO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "VELA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "VOLEIBOL"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "VOLEIBOL PLAYA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "WATERPOLO"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "WINDSURF"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "WUSHU"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ESGRIMA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ESPELEOLOXÍA"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "ESQUÍ"
+        },
+        {
+            "type": "DEPORTES",
+            "word": "EQUITACIÓN"
+        }
+    ]
+}

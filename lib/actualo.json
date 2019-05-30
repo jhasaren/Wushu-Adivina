@@ -1,0 +1,740 @@
+{ 
+    "dataset": [
+        {
+            "type": "ACTUA",
+            "word": "PICHAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COCINAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AGUA BENDITA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AMARRAR ZAPATOS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "RETÉN"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CORRER"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SALTAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PELICULIAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CREMALLERA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MENSAJE DE TEXTO"
+        },
+		{
+            "type": "ACTUA",
+            "word": "FOTOGRAFIA"
+        },
+		{
+            "type": "ACTUA",
+            "word": "LAURA EN AMERICA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SALCHIPAPA"
+        },
+		{
+            "type": "ACTUA",
+            "word": "SADOMASOQUISMO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHATEAR"
+        },
+		{
+            "type": "ACTUA",
+            "word": "THOR"
+        },
+		{
+            "type": "ACTUA",
+            "word": "CANTAN LOS ENANOS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "STALKEAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SENTARSE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CEPILLAR DIENTES"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PEINAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "RASURAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ORGASMO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PELUQUEAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR FUTBOL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "VOLEIBOL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TENIS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR PING PONG"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BAJAR EL VIDRIO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "DESMECHAR CARNE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "LAVAR ROPA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESCRIBIR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PREGUNTAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BORRACHO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TOMAR LICOR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CORTARSE LAS UÑAS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "LIMPIARSE EL CULO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MASTURBAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PRENDER MOTO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MONTAR BICICLETA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COMER MOCO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ORAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "HUEVO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "FRITAR HUEVO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ASAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AMASAR PIZZA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHOCOLATE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "HAMBURGUESA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SEMAFORO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SALTAR LAZO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BAILAR SALSA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BAILAR REGGAETON"
+        },
+        {
+            "type": "ACTUA",
+            "word": "POPPER"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BAJAR ESCALERAS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SUBIR ESCALERAS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "OLA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PERSIGNAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "GOLPEAR LA PUERTA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COMER ESPAGUETIS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TROPEZAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "APLICAR PERFUME"
+        },
+        {
+            "type": "ACTUA",
+            "word": "GOL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CELEBRAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CANTAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PENALTI"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SILVAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PATINETA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESTIRAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "EMPUJAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "GANCHO EN RIO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PICANTE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CALIENTE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "FRIO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SENSUAL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PESADILLA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "GANAS DE ORINAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "DORMIR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "RASCAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "INYECCION"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COMESON"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHAVO DEL OCHO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SUPERMAN"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ASUSTAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PIÑATA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "LUPA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESCALAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "DISPARAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TEMBLOR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "VOMITAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "NADAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CLAVAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MALABARES"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESUCHAR MUSICA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COQUETEAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ROBAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TIRAR UN BESO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PICAR EL OJO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CUERDA FLOJA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESTORNUDAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BOSTEZAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "HIPO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHUPAR LIMON"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHUPAR BOMBOM"
+        },
+        {
+            "type": "ACTUA",
+            "word": "FLAUTA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESCUPIR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CAGAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "HACER EJERCICIO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TIRAR UN PEDO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHUCHA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AFAN"
+        },
+        {
+            "type": "ACTUA",
+            "word": "NERVIOSO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SELFIE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MODELAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "EMBETUNAR ZAPATOS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PONERSE EN 4"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AHORCAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SACAR ESPINILLA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CAZAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BENDICION"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SUBIR EL VIDRIO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PARAR TAXI"
+        },
+        {
+            "type": "ACTUA",
+            "word": "REVOLVER HUEVOS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PICA EL CULO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BAILAR SANJUANERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SALSA CHOQUE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "SEXO ORAL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PISAR MIERDA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MARIGUANERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PELEA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PINTAR PARED"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BARRER"
+        },
+        {
+            "type": "ACTUA",
+            "word": "DOLOR DE MUELA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AMAMANTAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ORDEÑAR VACA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TOMAR SOPA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR XBOX"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BILLAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BALONCESTO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "EXCITARSE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PARADO EN EL BUS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AYUDEME AGENTE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MOZA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ASEREJE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BARBA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TOCAR NALGAS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "LLEVA PIPI"
+        },
+        {
+            "type": "ACTUA",
+            "word": "HACER VACA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "TOMAR TINTO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "REPOSAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "QUEMAR POLVORA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AMACIZAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "AMAGAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ARRULLAR BEBE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PEDIR CHICO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "COMER UÑA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MORBOSEAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "LESBIANA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MASTICAR CHICLE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PANADERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PERDER DINERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MASOTIS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "ESCONDITE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR CANICAS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR TROMPO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "JUGAR BALERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PICAR CEBOLLA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "INFLAR GLOBO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "REMAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CONTAR DINERO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CAMBIAR CANAL"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BESAR CUELLO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BOTAR PENALTI"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PEDIR CHIQUITO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "MONTAR ENCIMA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "DORMIR DESNUDO"
+        },
+        {
+            "type": "ACTUA",
+            "word": "RASTRILLAR"
+        },
+        {
+            "type": "ACTUA",
+            "word": "VIRGEN"
+        },
+        {
+            "type": "ACTUA",
+            "word": "A TUN TUN"
+        },
+        {
+            "type": "ACTUA",
+            "word": "VISTIMA VISTIMA"
+        },
+        {
+            "type": "ACTUA",
+            "word": "VALS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BANDA DE ROCK"
+        },
+        {
+            "type": "ACTUA",
+            "word": "PIEGRANDE"
+        },
+        {
+            "type": "ACTUA",
+            "word": "BRITNEY SPEARS"
+        },
+        {
+            "type": "ACTUA",
+            "word": "CHILINDRINA"
+        }
+    ]
+}

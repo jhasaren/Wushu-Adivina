@@ -1,0 +1,632 @@
+{ 
+    "dataset": [
+        {
+            "type": "ANIMALES",
+            "word": "AGUILA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ALACRAN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ALMEJA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ANGUILA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ARAÑA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ARMADILLO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ASNO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ATÚN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ANIMALESTRUZ"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "AVISPA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BABOSA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BALLENA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BENGALI"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BISONTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BOA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BOGAVANTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BONITO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BUEY"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BUFALO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BUHO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BUITRE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "BURRO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CABALLO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CABALLITO DE MAR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CACATUA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CAMALEON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CAMELLO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CANGURO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CANARIO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CANGREJO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CARACOL"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CASTOR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CEBRA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CERDO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CHIMPANCE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CIEMPIES"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CIERVO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CIGALA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CISNE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "COCODRILO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "COLIBRI"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CONEJO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "CONDOR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "COYOTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "DELFIN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "DIABLO DE TASMANIA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "DRAGON DE KOMODO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ELEFANTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ESCORPION"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ESTRELLA DE MAR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "FAISAN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "FLAMINGO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "FLAMENCO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "FOCA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GACELA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GALAPAGO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GALLINA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GALLO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GANSO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GARCILLA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GARRAPATA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GARZA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GATO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GAVILAN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GORILA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GORGOJO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GRILLO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "GUEPARDO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HALCON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HAMSTER"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HIENA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HIPOPOTAMO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HORMIGA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "HURON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "IGUANA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "INSECTO PALO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "IMPALA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "JABALI"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "JIRAFA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "JAGUAR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "KOALA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LAGARTO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LANGOSTA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LANGOSTINO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LECHUZA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LEMUR"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LEON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LEON MARINO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LEOPARDO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LIBELULA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LIEBRE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LINCE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LLAMA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LOBO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LOBO MARINO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LOMBRIZ"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LORO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "LUCIERNAGA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MAMUT"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MANDRIL"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MANTIS RELIGIOSA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MAPACHE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MARIPOSA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MEDUSA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MILPIES"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MONO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MOSCA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MOSQUITO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MORSA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "MURCIELAGO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "NUTRIA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OCELOTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OSO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OSO DE AGUA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OSO HORMIGUERO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OSO PANDA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OSO PARDO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ORNITORRINCO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "OVEJA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PAJARO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PALOMA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PANTERA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PAPAGAYO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PELICANO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PEREZOSO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PERICO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PERIQUITO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PERRO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PEZ"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PINGÜINO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PIOJO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "POLILLA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PUERCOESPIN"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PULGA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PULPO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "PUMA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "RANA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "RATA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "RATON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "RAYA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "RINOCERONTE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "SALMON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "SALTAMONTES"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "SANGUIJUELA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "SAPO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "SEPIA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TIBURON"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TIGRE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TIJERETA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TOPO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TORO"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "TORTUGA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "VACA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "XENOPUS"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "XOLOESCUINTLE"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "YEGUA"
+        },
+        {
+            "type": "ANIMALES",
+            "word": "ZORRO"
+        }
+    ]
+}
