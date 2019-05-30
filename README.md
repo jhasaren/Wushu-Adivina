@@ -31,3 +31,18 @@ Categorías Disponibles:
 *Dibujalo
 
 Se recomienda Solo para mayores de +18 años, pues en algunas categorías el lenguaje puede ser fuerte. 
+
+#Descarga Play Store
+https://play.google.com/store/apps/details?id=com.phonegap.wushu
+
+#Plugins Cordova Requeridos
+ cordova-plugin-backlight 0.0.1 "Backlight"
+ cordova-plugin-console 1.0.7 "Console"
+ cordova-plugin-device-motion 2.0.1 "Device Motion”
+ cordova-plugin-dialogs 2.0.1 "Notification”
+ cordova-plugin-file 6.0.1 "File"
+ cordova-plugin-insomnia 4.3.0 "Insomnia (prevent screen sleep)”
+ cordova-plugin-media 5.0.2 "Media"
+ cordova-plugin-splashscreen 5.0.2 "Splashscreen”
+ cordova-plugin-statusbar 1.0.1 "StatusBar"
+ cordova-plugin-whitelist 1.2.2 "Whitelist"
