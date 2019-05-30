@@ -32,10 +32,10 @@ Categorías Disponibles:
 
 Se recomienda Solo para mayores de +18 años, pues en algunas categorías el lenguaje puede ser fuerte. 
 
-#Descarga Play Store
+# Descarga Play Store
 https://play.google.com/store/apps/details?id=com.phonegap.wushu
 
-#Plugins Cordova Requeridos
+# Plugins Cordova Requeridos
  cordova-plugin-backlight 0.0.1 "Backlight"
  cordova-plugin-console 1.0.7 "Console"
  cordova-plugin-device-motion 2.0.1 "Device Motion”
